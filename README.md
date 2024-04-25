@@ -5,4 +5,4 @@ Before joining Glide, I worked as a Senior Software Engineer at [Contra](https:/
 
 When I'm not working, you can find me contributing to open source projects, mentoring junior developers, and building my own projects. I'm enthusiastic about Developer Experience, Motion, and Performance.
 
-Learn more about my work on my [website](https://juliomerisio.com) and contact me at [x](https://twitter.com/juliomerisio/).
+See my work at [juliomerisio.com](https://juliomerisio.com) and connect with me on [Twitter](https://twitter.com/juliomerisio/).
